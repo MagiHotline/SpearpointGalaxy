@@ -6,7 +6,7 @@ Briefly introduce your project. Explain its purpose, inspiration, and any unique
 Videogame project I did back in High School, year 2021/2022. Even though it's a really bad-designed game, it was my first time projecting and building a game all by myself. Why publish it this after 2 years? Because I wanted to build my portfolio. 
 SpearpointGalaxy is "Galaga" based game where you control a spaceship and try to survive enemy waves. More time you survive, more points you get. 
 
-Screenshots/GIFs
+# Gameplay
 ![Video demonstration](SpearpointGalaxyVideo.gif)
 
 # Features
