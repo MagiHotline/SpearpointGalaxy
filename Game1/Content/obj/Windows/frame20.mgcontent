@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/TemplateSpearPointGalaxy/Game1/Content/frame20.gif</SourceFile>
+  <SourceFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/SpearpointGalaxy/Game1/Content/frame20.gif</SourceFile>
   <SourceTime>2022-03-06T17:52:21+01:00</SourceTime>
-  <DestFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/TemplateSpearPointGalaxy/Game1/Content/bin/Windows/frame20.xnb</DestFile>
-  <DestTime>2022-03-06T18:20:54.2103223+01:00</DestTime>
+  <DestFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/SpearpointGalaxy/Game1/Content/bin/Windows/frame20.xnb</DestFile>
+  <DestTime>2024-02-29T11:13:24.0375222+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

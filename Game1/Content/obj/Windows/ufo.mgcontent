@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/TemplateSpearPointGalaxy/Game1/Content/ufo.png</SourceFile>
+  <SourceFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/SpearpointGalaxy/Game1/Content/ufo.png</SourceFile>
   <SourceTime>2022-02-16T19:23:12.6427664+01:00</SourceTime>
-  <DestFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/TemplateSpearPointGalaxy/Game1/Content/bin/Windows/ufo.xnb</DestFile>
-  <DestTime>2022-02-16T19:36:47.0836851+01:00</DestTime>
+  <DestFile>C:/Users/Megaport/OneDrive/Desktop/Scuola/VSCode C#/SpearpointGalaxy/Game1/Content/bin/Windows/ufo.xnb</DestFile>
+  <DestTime>2024-02-29T11:13:18.6231166+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
