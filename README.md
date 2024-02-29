@@ -7,7 +7,7 @@ Videogame project I did back in High School, year 2021/2022. Even though it's a 
 SpearpointGalaxy is "Galaga" based game where you control a spaceship and try to survive enemy waves. More time you survive, more points you get. 
 
 Screenshots/GIFs
-![Video demonstration](SpearpointGalaxyVideo.mp4)
+![Video demonstration](SpearpointGalaxyVideo.gif)
 
 Features
 
