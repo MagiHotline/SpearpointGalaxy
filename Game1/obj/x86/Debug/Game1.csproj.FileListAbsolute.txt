@@ -1,0 +1,199 @@
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\DOCENTE\Desktop\Barosi\4E_SISTEMI\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Fabio\Desktop\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Fabio\Desktop\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceshipr.xnb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\backroundr.xnb
+C:\Users\STUDENTE\Desktop\4°F\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\laserr.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\backroundr.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\laserr.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceshipr.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\gameFont.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\backroundr.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\gameFont.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\laserr.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceshipr.xnb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\STUDENTE\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\backroundr.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\gameFont.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\laserr.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceship.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\spaceshipr.xnb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Megaport\Downloads\TemplateSpearPointGalaxy\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\lasergun.wma
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\lasergun.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\ufo.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\space-pixel-art.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\space-pixel-arts.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\SpearPoint_Icon.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\SpearPoint_Icons.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\lasergunn.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\lasergunnn.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\earthbound.wma
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\earthbound.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\otherworldyfoe.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\menu_effect.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\openmenu_effect.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\boltsprite.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\PowerUp.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame1.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame10.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame11.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame12.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame13.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame14.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame15.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame16.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame17.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame18.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame19.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame2.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame20.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame21.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame22.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame23.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame24.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame25.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame26.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame27.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame28.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame29.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame3.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame30.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame31.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame32.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame33.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame34.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame35.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame36.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame4.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame5.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame6.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame7.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame8.xnb
+C:\Users\Megaport\OneDrive\Desktop\Scuola\VSCode C#\TemplateSpearPointGalaxy\Game1\bin\Windows\x86\Debug\Content\frame9.xnb
