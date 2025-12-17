@@ -8,7 +8,7 @@ SpearpointGalaxy is "Galaga" based game where you control a spaceship and try to
 
 # Gameplay
 
-![Uploading SpearpointGalaxyVideo.gif…]()
+![EXAMPLE](https://raw.githubusercontent.com/MagiHotline/SpearpointGalaxy/SpearpointGalaxyVideo.gif)
 
 # Features
 
